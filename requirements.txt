@@ -1,0 +1,7 @@
+eutils==0.6.0
+transformers==3.0.0
+xmltodict==0.12.0
+numpy==1.16.0
+tqdm==4.42.1
+torch==1.4.0
+python-dotenv==0.14.0

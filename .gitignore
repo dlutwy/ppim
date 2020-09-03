@@ -1,0 +1,15 @@
+runs
+checkpoints
+__pycache__/
+.ipynb_checkpoints
+.env
+*.out
+.tensorboard-info
+pymp-*
+tmp
+tmp.py
+eutils-cache.db
+outputjson
+NER_GN
+tmp_bert
+metrics.tsv
