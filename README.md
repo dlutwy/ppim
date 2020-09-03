@@ -15,7 +15,7 @@ requirements are listed in `requirements.txt`
   BioBERT-Base v1.1 (+ PubMed 1M) is available [here][biobert]
  
   Original BERT is also known as bert-base-uncased.
-### Eutil
+### Eutil(optional)
   The gene normalization module(*uninvolved to our paper*) referes to the method proposed by Tung Tran in the [paper][workshop] titled *Exploring a Deep Learning Pipeline for the BioCreative VI Precision Medicine Task*. 
 
   This method requires the use of [eutils pacakage][eutil] and this package will automatically throttle requests according to NCBI guidelines (3 or 10 requests/second without or with an API key, respectively).
